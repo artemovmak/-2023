@@ -15,4 +15,4 @@ ___#KIS-2023___
 
 Для запуска скрипта, нужно запустить файл solution.py с помощью интерпретатора python и в качестве аргументов передать две директории:
 
-__python solution.py dir_name_1 dir_name_2__
+__python solution.py dir_name_1 dir_name_2 possible_percentage__
